@@ -6,7 +6,7 @@ import numpy as np
 import re
 from PIL import Image
 import matplotlib.pyplot as plt
-import spacy
+# import spacy
 import logging
 import warnings
 from nltk.corpus import stopwords
