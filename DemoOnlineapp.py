@@ -7,7 +7,7 @@ import io
 import numpy as np
 # import base64
 import re
-from wordcloud import WordCloud
+# from wordcloud import WordCloud
 from PIL import Image
 # from fuzzywuzzy import fuzz
 import matplotlib.pyplot as plt
