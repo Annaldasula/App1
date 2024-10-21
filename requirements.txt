@@ -9,3 +9,4 @@ scikit-learn
 plotly
 spacy
 thinc
+nltk
