@@ -7,3 +7,4 @@ numpy
 seaborn
 scikit-learn
 plotly
+spacy
