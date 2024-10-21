@@ -12,7 +12,7 @@ from PIL import Image
 # from fuzzywuzzy import fuzz
 import matplotlib.pyplot as plt
 # import gensim
-import spacy
+# import spacy
 # import pyLDAvis.gensim_models
 # from gensim.utils import simple_preprocess
 # from gensim.models import CoherenceModel
